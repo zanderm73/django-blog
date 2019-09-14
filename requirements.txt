@@ -8,6 +8,7 @@ configparser==3.8.1
 cryptography==2.1.4
 Django==1.11.10
 enum34==1.1.6
+ez-setup==0.9
 futures==3.3.0
 html5lib==0.999999999
 idna==2.6
