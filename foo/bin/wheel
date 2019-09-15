@@ -1,5 +1,4 @@
-#!/home/ubuntu/environment/foo/bin/python3
-
+#!/home/ubuntu/environment/foo/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
